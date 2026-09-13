@@ -28,7 +28,7 @@
             "icon": "<изображение_иконки>",
             "score_delta": 0
         }
-    }
+    },
     "creation_time": 0
 }
 ```
@@ -77,7 +77,7 @@ loyalty "Лояльность пассажира" и safety "Рейтинг бе
 [state] `end` - нода, которой заканчивается сценарий, вызывается если система игра готова к завершению; `is_completed` передаётся frontend вызовом API backend, как значение успешного завершения сценария
 ```json
 {
-    "is_completed": false
+    "is_completed": false,
     "next_node": null
 }
 ```
