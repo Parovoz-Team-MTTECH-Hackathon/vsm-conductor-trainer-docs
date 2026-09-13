@@ -1,2 +1,8 @@
 # vsm-conductor-trainer-docs
 Документация обучающего приложения для проводников ВСМ  (Docs)
+
+Use Case Diagram:
+![Use Case Diagram](https://github.com/Parovoz-Team-MTTECH-Hackathon/vsm-conductor-trainer-docs/blob/main/VsmConductorTrainer%20Use%20Case%20Diagram.jpg)
+
+Class Diagram:
+![Class Diagram](https://github.com/Parovoz-Team-MTTECH-Hackathon/vsm-conductor-trainer-docs/blob/main/VsmConductorTrainer%20Class%20Diagram.jpg)
