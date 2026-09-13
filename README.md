@@ -1,5 +1,4 @@
-# vsm-conductor-trainer-docs
-## Документация обучающего приложения для проводников ВСМ  (Docs)
+# Документация обучающего приложения для проводников ВСМ  (Docs)
 
 [Спецификация пакета сценария](https://github.com/Parovoz-Team-MTTECH-Hackathon/vsm-conductor-trainer-docs/blob/main/ScenarioSpecification.md)
 
