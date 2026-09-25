@@ -7,4 +7,4 @@ Use Case Diagram:
 ![Use Case Diagram](https://github.com/Parovoz-Team-MTTECH-Hackathon/vsm-conductor-trainer-docs/blob/main/VsmConductorTrainer%20Use%20Case%20Diagram.jpg)
 
 Component Diagram:
-![Class Diagram](https://github.com/Parovoz-Team-MTTECH-Hackathon/vsm-conductor-trainer-docs/blob/main/VsmConductorTrainer%20Class%20Diagram.jpg)
+![Class Diagram](https://github.com/Parovoz-Team-MTTECH-Hackathon/vsm-conductor-trainer-docs/blob/main/VsmConductorTrainer%20Component%20Diagram.jpg)
