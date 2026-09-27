@@ -1,6 +1,7 @@
 # Документация обучающего приложения для проводников ВСМ  (Docs)
 
-## Предпроектное проектирование
+[OpenAPI](https://github.com/Parovoz-Team-MTTECH-Hackathon/vsm-conductor-trainer-docs/blob/main/openapi.json)
+
 [Спецификация пакета сценария](https://github.com/Parovoz-Team-MTTECH-Hackathon/vsm-conductor-trainer-docs/blob/main/ScenarioSpecification.md)
 
 Use Case Diagram:
